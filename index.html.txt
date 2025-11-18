@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Love You Jindgi Ji</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #ff99cc, #ff3366);
+            text-align: center;
+            color: white;
+            padding: 40px;
+        }
+        .box {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 30px;
+            border-radius: 20px;
+            max-width: 500px;
+            margin: auto;
+        }
+        h1 {
+            font-size: 42px;
+            font-weight: bold;
+        }
+        p {
+            font-size: 22px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="box">
+        <h1>Love You Jindgi Ji ❤️</h1>
+        <p>
+            Aap meri zindagi ki sabse khoobsurat feeling ho.<br>
+            Jo bhi ho, jaisa bhi ho — aap hamesha special rahoge.<br>
+            Yeh chhoti si website sirf aapke liye... ❤️
+        </p>
+    </div>
+
+</body>
+</html>
+
